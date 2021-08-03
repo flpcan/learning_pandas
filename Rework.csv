@@ -1,0 +1,38 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+43,Oddish,Grass,Poison,320,45,50,55,75,65,30,1,False
+60,Poliwag,Water,,300,40,50,40,40,40,90,1,False
+65,Alakazam,Psychic,,500,55,50,45,135,95,120,1,False
+65,AlakazamMega Alakazam,Psychic,,590,55,50,65,175,95,150,1,False
+93,Haunter,Ghost,Poison,405,45,50,45,115,55,95,1,False
+101,Electrode,Electric,,480,60,50,70,80,80,140,1,False
+104,Cubone,Ground,,320,50,50,95,40,50,35,1,False
+124,Jynx,Ice,Psychic,455,65,50,35,115,95,95,1,False
+164,Noctowl,Normal,Flying,442,100,50,50,76,96,70,2,False
+177,Natu,Psychic,Flying,320,40,50,45,70,45,70,2,False
+184,Azumarill,Water,Fairy,420,100,50,80,60,80,50,2,False
+219,Magcargo,Fire,Rock,410,50,50,120,80,80,30,2,False
+220,Swinub,Ice,Ground,250,50,50,40,30,30,50,2,False
+269,Dustox,Bug,Poison,385,60,50,70,50,90,65,3,False
+271,Lombre,Water,Grass,340,60,50,50,60,70,50,3,False
+279,Pelipper,Water,Flying,430,60,50,100,85,70,65,3,False
+311,Plusle,Electric,,405,60,50,40,85,75,95,3,False
+358,Chimecho,Psychic,,425,65,50,70,95,80,65,3,False
+361,Snorunt,Ice,,300,50,50,50,50,50,50,3,False
+378,Regice,Ice,,580,80,50,100,100,200,50,3,True
+425,Drifloon,Ghost,Flying,348,90,50,34,60,44,70,4,False
+451,Skorupi,Poison,Bug,330,40,50,90,30,55,65,4,False
+468,Togekiss,Fairy,Flying,545,85,50,95,120,115,80,4,False
+479,Rotom,Electric,Ghost,440,50,50,77,95,77,91,4,False
+509,Purrloin,Dark,,281,41,50,37,50,37,66,5,False
+535,Tympole,Water,,294,50,50,40,50,40,64,5,False
+563,Cofagrigus,Ghost,,483,58,50,145,95,105,30,5,False
+568,Trubbish,Poison,,329,50,50,62,40,62,65,5,False
+572,Minccino,Normal,,300,55,50,40,40,40,75,5,False
+582,Vanillite,Ice,,305,36,50,50,65,60,44,5,False
+597,Ferroseed,Grass,Steel,305,44,50,91,24,86,10,5,False
+615,Cryogonal,Ice,,485,70,50,30,95,135,105,5,False
+661,Fletchling,Normal,Flying,278,45,50,43,40,38,62,6,False
+667,Litleo,Fire,Normal,369,62,50,58,73,54,72,6,False
+681,AegislashShield Forme,Steel,Ghost,520,60,50,150,50,150,60,6,False
+703,Carbink,Rock,Fairy,500,50,50,150,50,150,50,6,False
+704,Goomy,Dragon,,300,45,50,35,55,75,40,6,False
