@@ -2,7 +2,7 @@
 
 Select the description column from reviews and assign the result to the variable desc.
 
-# Your code here
+
 desc = reviews.description
 
 
@@ -75,8 +75,6 @@ Hint: you may use loc or iloc. When working on the answer this question and the 
 Create a DataFrame italian_wines containing reviews of wines made in Italy. Hint: reviews.country equals what?
 
 italian_wines = reviews.loc[reviews.country == "Italy"]
-
-
 
 
 
