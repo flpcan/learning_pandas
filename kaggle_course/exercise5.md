@@ -2,11 +2,10 @@
 
 What is the data type of the points column in the dataset?
 
-# Your code here
+
 dtype = reviews.points.dtype
 
-# Check your answer
-q1.check()
+
 
 
 2.
@@ -16,8 +15,6 @@ Create a Series from entries in the points column, but convert the entries to st
 
 point_strings = reviews.points.astype("str")
 
-# Check your answer
-q2.check()
 
 
 3.
@@ -26,8 +23,6 @@ Sometimes the price column is null. How many reviews in the dataset are missing 
 
 n_missing_prices = reviews.price.isnull().sum()
 
-# Check your answer
-q3.check()
 
 
 
@@ -37,7 +32,3 @@ What are the most common wine-producing regions? Create a Series counting the nu
 
 reviews_per_region = reviews.region_1.fillna("Unknown").value_counts()
 
-
-
-# Check your answer
-q4.check()
